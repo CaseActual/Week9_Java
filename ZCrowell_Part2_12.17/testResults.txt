@@ -1,0 +1,3 @@
+The minimum test score is: 34.5
+The maximum test score is: 95.4
+The average test score is: 75.3
